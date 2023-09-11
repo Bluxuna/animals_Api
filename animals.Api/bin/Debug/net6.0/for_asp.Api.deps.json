@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "for_asp.Api/1.0.0": {
+        "runtime": {
+          "for_asp.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "for_asp.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
